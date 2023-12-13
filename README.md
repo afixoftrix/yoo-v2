@@ -7,6 +7,8 @@
   Gatsby Starter: Minimal Blog
 </h1>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8e8b0ddf-22e4-4023-9331-b6fa4304960a/deploy-status)](https://app.netlify.com/sites/gallant-wright-19952e/deploys)
+
 <p align="center">
   <a href="https://github.com/LekoArts/gatsby-starter-minimal-blog/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-0BSD-blue.svg" alt="Minimal Blog is released under the 0BSD license." />
