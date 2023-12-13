@@ -1,10 +1,10 @@
 {
   "private": true,
-  "name": "minimal-blog",
-  "description": "Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.",
-  "version": "1.3.16",
-  "author": "LekoArts",
-  "license": "0BSD",
+  "name": "yoowana-blog",
+  "description": "A minimal blog with a focus on random points in my life.",
+  "version": "1.0.0",
+  "author": "Unwana Essien",
+  "license": "MIT",
   "starter-name": "gatsby-starter-minimal-blog",
   "scripts": {
     "build": "gatsby build",
